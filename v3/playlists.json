@@ -1,4 +1,5 @@
-{
+[
+    {
     "Id":"874c243e-09a9-429b-b934-c68a255df199",
     "Title":"Timlin",
     "Image":"images/playlists/excel_quick_start.png",
@@ -13,4 +14,5 @@
     "StatusNote":"",
     "Assets":
         ["9207116b-166c-4bc6-9aba-185dc6447677"]
-}
+    }
+]
