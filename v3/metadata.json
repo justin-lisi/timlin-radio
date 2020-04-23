@@ -133,7 +133,7 @@
   "ContentPacks": [],
   "AssetOrigins": [
     "https://support.office.com",
-	"https://timlinradio.blob.core.windows.net/timlin-radio/",
+  	"https://timlinradio.blob.core.windows.net/timlin-radio/",
     "https://docs.microsoft.com"
   ]
 }
