@@ -13,7 +13,7 @@
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
-      "Source": "Microsoft",
+      "Source": "Github",
       "SubCategories": [
         {
           "Id": "d4717ae0-c058-4739-bed3-c313017868e2",
@@ -21,7 +21,7 @@
           "Image": "images/categories/first_days.png",
           "TechnologyId": "",
           "SubjectId": null,
-          "Source": "Microsoft",
+          "Source": "Github",
           "SubCategories": []
         }
       ]
@@ -83,6 +83,7 @@
     "FastTrack",
     "M365",
     "Microsoft",
+    "Github",
     "LinkedIn"
   ],
   "Levels": [
