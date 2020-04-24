@@ -1,14 +1,18 @@
-[{"Id":"874c243e-09a9-429b-b934-c68a255df199",
-"Title":"Timlin",
-"Image":"images/playlists/excel_quick_start.png",
-"LevelId":"f800c81b-ba2b-4b0f-9de5-3d42a0f45202",
-"AudienceId":"b704880e-1289-48fe-80f7-a8acacf9bc1b",
-"TechnologyId":"9659959d-871d-4d9f-b8fc-7309596d5df4",
-"SubjectId":"",
-"Source":"Microsoft",
-"CatId":"85e62ebe-1e24-4459-b45d-1df2623b7729",
-"Description":"Get up and running with Timlin.",
-"StatusTagId":"",
-"StatusNote":"",
-"Assets":
-["9207116b-166c-4bc6-9aba-185dc6447677"]}]
+[
+    {
+    "Id":"874c243e-09a9-429b-b934-c68a255df199",
+    "Title":"Timlin",
+    "Image":"images/playlists/excel_quick_start.png",
+    "LevelId":"f800c81b-ba2b-4b0f-9de5-3d42a0f45202",
+    "AudienceId":"b704880e-1289-48fe-80f7-a8acacf9bc1b",
+    "TechnologyId":"9659959d-871d-4d9f-b8fc-7309596d5df4",
+    "SubjectId":"",
+    "Source":"Microsoft",
+    "CatId":"d4717ae0-c058-4739-bed3-c313017868e2",
+    "Description":"Get up and running with Timlin.",
+    "StatusTagId":"",
+    "StatusNote":"",
+    "Assets":
+        ["9207116b-166c-4bc6-9aba-185dc6447677"]
+    }
+]
